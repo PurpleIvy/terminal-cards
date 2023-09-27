@@ -7,4 +7,4 @@ I am starting with blackjack, as it is an easy game to make, however i intend to
 
 
 
-Developed by A Huddle
+Developed by PurpleeIvy
